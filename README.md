@@ -1,1 +1,1 @@
-# Slidify
+# Slidify - R package
